@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente trabalhando em um projeto pessoal **Cotation System**
 
-- 🌱 Atualmente estou aprendendo **C#, .NET, Angular, Javascript, SOLID, Design Pattern**
+- 🌱 Atualmente estou aprendendo **C#, .NET, Angular, Javascript**
 
 - 👨‍💻 Todos os projetos estão disponíveis em: [https://github.com/ArlanFigueiredo](https://github.com/ArlanFigueiredo)
 
