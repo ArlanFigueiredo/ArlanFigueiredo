@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=arlanfigueiredo&label=Profile%20views&color=0e75b6&style=flat" alt="arlanfigueiredo" />
 </p>
 
-- 🔭 Atualmente trabalhando em um projeto pessoal **Cotation System**
-
-- 🌱 Atualmente estou aprendendo **C#, .NET, Angular, Javascript**
 
 - 👨‍💻 Todos os projetos estão disponíveis em: [https://github.com/ArlanFigueiredo](https://github.com/ArlanFigueiredo)
 
