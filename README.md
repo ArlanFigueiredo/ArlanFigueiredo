@@ -1,26 +1,41 @@
-<h1 align="center">Olá 👋, me chamo Arlan Figueiredo</h1>
-<h3 align="center">Desenvolvimento Web</h3>
+<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arlanfigueiredo&label=Profile%20views&color=0e75b6&style=flat" alt="arlanfigueiredo" />
-</p>
+<div align="center">
+  <p>💻 Desenvolvedor(a) focado em criar soluções elegantes e eficientes.</p>
+  <p>🚀 Atualmente, estou trabalhando em projetos que me desafiam a crescer.</p>
+</div>
 
+---
 
-- 👨‍💻 Todos os projetos estão disponíveis em: [https://github.com/ArlanFigueiredo](https://github.com/ArlanFigueiredo)
+<h2 align="center">🏆 Minhas Conquistas no GitHub</h2>
 
-- 📫 Entre em contato **arlan.carloz@gmail.com**
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=[SEU-USERNAME]&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</div>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-  <!-- Adicione links de redes sociais aqui -->
-</p>
+---
 
+<h2 align="center">📊 Estatísticas e Atividade</h2>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[SEU-USERNAME]&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU-USERNAME]&theme=dracula&hide_border=true" alt="Estatísticas de Streak" />
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arlanfigueiredo&show_icons=true&locale=en" alt="arlanfigueiredo" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arlanfigueiredo" alt="arlanfigueiredo" />
-</p>
+<h2 align="center">🌐 Tecnologias e Ferramentas</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USERNAME]&layout=compact&theme=dracula&hide_border=true" alt="Principais Linguagens" />
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
+</div>
