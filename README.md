@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou **[Seu Nome]**</h1>
+<h1 align="center">Olá 👋, eu sou **Arlan Figueiredo**</h1>
 
 <div align="center">
   <p>🚀 Desenvolvedor Full Stack apaixonado por TypeScript, NestJS, Next.js & React.</p>
@@ -42,20 +42,15 @@
 
 ---
 
-## 🚀 Meus destaques
 
-- ⚙️ APIs construídas com boas práticas de domínio (DDD), testes e CI/CD.  
-- 🛠️ Componentização front-end usando Next.js + React, otimização de desempenho com SSR, SWR e lazy loading.  
-- 🔐 Segurança: autenticação JWT / OAuth, validação rígida, políticas de acesso.  
-- 🌍 Acessibilidade, responsividade e UX como foco, visando usabilidade em múltiplos dispositivos.
 
 ---
 
 ## 📫 Como me encontrar
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[SEU-USUARIO])  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-LINKEDIN])  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU-EMAIL])
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArlanFigueiredo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[[SEU-LINKEDIN]](https://www.linkedin.com/in/arlan-carlos-figueiredo-77a832218/))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arlan.carloz@gmail.com)
 
 ---
 
