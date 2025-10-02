@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou **Arlan Figueiredo**</h1>
+<!-- <h1 align="center">Olá 👋, eu sou **Arlan Figueiredo**</h1>
 
 <div align="center">
   <p>🚀 Desenvolvedor Full Stack apaixonado por TypeScript, NestJS, Next.js & React.</p>
@@ -57,4 +57,4 @@
 > 💬 “Código limpo é aquele que ordena não apenas a máquina, mas também a mente de quem o lê.”
 
 ---
-
+ -->
